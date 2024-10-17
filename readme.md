@@ -16,9 +16,7 @@
 	<a href="#" target="__blank"><img align="center" src="./img/android.png" alt="android" height="60" width="60" /></a>
   <a href="#" target="__blank"><img align="center" src="./img/android-jetpack.png" alt="android-jetpack" height="60" width="60" /></a>
   <a href="#" target="__blank"><img align="center" src="./img/kotlin.png" alt="kotlin" height="60" width="60" /></a>
-  <a href="#" target="__blank"><img align="center" src="./img/material-ui.png" alt="material ui" height="60" width="60" /></a>
-  <a href="#" target="__blank"><img align="center" src="./img/python.png" alt="python" height="60" width="60" /></a>
-</p>
+  <a href="#" target="__blank"><img align="center" src="./img/material-ui.png" alt="material ui" height="60" width="60" />
 
 ---
 
