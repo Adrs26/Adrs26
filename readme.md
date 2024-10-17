@@ -1,5 +1,3 @@
-![file1](./img/android-developers.png)
-
 <h1 align="center">Hi 👋, I'm Adrian Septiyadi</h1>
 <h3 align="center">Someone who is currently studying at Diponegoro University, majoring in Computer Engineering and very interested in Android Application Developing.</h3>
 
