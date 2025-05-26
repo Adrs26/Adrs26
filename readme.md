@@ -27,7 +27,7 @@
 
 <div align="center">
 	<br/>
-	<a href="https://github.com/davidnasrulloh">
+	<a href="https://github.com/Adrs26">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=Adrs26&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"/>
 	</a>
 </div>
