@@ -11,13 +11,13 @@
 
 <h3 align="center">Language and Tools:</h3>
 <p align="center">
-  <a href="#" target="__blank"><img align="center" src="./img/android.png" alt="android" height="60" width="60" /></a>
-  <a href="#" target="__blank"><img align="center" src="./img/kotlin.png" alt="kotlin" height="60" width="60" /></a>
-  <a href="#" target="__blank"><img align="center" src="./img/android-jetpack.png" alt="android-jetpack" height="50" width="50" /></a>
-  <a href="#" target="__blank"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="jetpack-compose" height="60" width="60" /></a>
-  <a href="#" target="__blank"><img align="center" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Ktor_icon.png" alt="ktor" height="45" width="45" /></a>
-  <a href="#" target="__blank"><img align="center" src="https://apptractor.ru/wp-content/uploads/2023/12/koin.png" alt="koin" height="50" width="50" /></a>
-  <a href="#" target="__blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" height="60" width="60" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/android.png" alt="android" height="50" width="50" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/kotlin.png" alt="kotlin" height="50" width="50" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/jetpack.png" alt="android-jetpack" height="50" width="50" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/compose.png" alt="jetpack-compose" height="50" width="50" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/koin.png" alt="ktor" height="50" width="50" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/ktor.png" height="50" width="50" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/firebase.png" alt="firebase" height="50" width="50" /></a>
 
 ---
 
