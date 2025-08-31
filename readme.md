@@ -15,10 +15,10 @@
   <a href="#" target="__blank"><img align="center" src="./img/kotlin.png" alt="kotlin" height="50" width="50" /></a>
   <a href="#" target="__blank"><img align="center" src="./img/jetpack.png" alt="android-jetpack" height="50" width="50" /></a>
   <a href="#" target="__blank"><img align="center" src="./img/compose.png" alt="jetpack-compose" height="50" width="50" /></a>
-  <a href="#" target="__blank"><img align="center" src="./img/koin.png" alt="ktor" height="50" width="50" /></a>
-  <a href="#" target="__blank"><img align="center" src="./img/ktor.png" height="50" width="50" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/koin.png" alt="koin" height="50" width="50" /></a>
+  <a href="#" target="__blank"><img align="center" src="./img/ktor.png" alt="ktor" height="50" width="50" /></a>
   <a href="#" target="__blank"><img align="center" src="./img/firebase.png" alt="firebase" height="50" width="50" /></a>
-
+  <a href="#" target="__blank"><img align="center" src="./img/cmp.png" alt="compose-multiplatform" height="50" width="50" /></a>
 ---
 
 <div align="center"> <br/> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Adrs26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davidnasrulloh" /></div>
