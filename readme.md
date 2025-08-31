@@ -19,6 +19,8 @@
   <a href="#" target="__blank"><img align="center" src="./img/ktor.png" alt="ktor" height="50" width="50" /></a>
   <a href="#" target="__blank"><img align="center" src="./img/firebase.png" alt="firebase" height="50" width="50" /></a>
   <a href="#" target="__blank"><img align="center" src="./img/cmp.png" alt="compose-multiplatform" height="50" width="50" /></a>
+</p>
+
 ---
 
 <div align="center"> <br/> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Adrs26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davidnasrulloh" /></div>
